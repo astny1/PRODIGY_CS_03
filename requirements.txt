@@ -1,0 +1,17 @@
+# Python Password Complexity Checker Requirements
+# No external dependencies required - uses only Python standard library
+
+# For GUI version (optional):
+# tkinter (usually comes with Python installation)
+
+# For enhanced security (optional):
+# cryptography>=3.4.8  # For additional cryptographic functions
+# bcrypt>=4.0.1        # For password hashing (if needed)
+
+# For web interface (optional):
+# flask>=2.0.0         # For web server
+# flask-cors>=3.0.10   # For CORS support
+
+# For testing (optional):
+# pytest>=6.0.0        # For unit testing
+# pytest-cov>=2.10.0   # For coverage testing
